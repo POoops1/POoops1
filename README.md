@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @POoops1
-- 👀 I’m interested in fucking
+- 👀 I’m interested in
+- 
 - 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
